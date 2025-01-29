@@ -8,7 +8,7 @@ jobs:
     steps: 
       - name: simple javascript Actions
         id: hello
-        uses: action/hellow-world-javascript-action@v1
+        uses: action/hello-world-javascript-action@v1
         with: 
           who-to-great: devopsteam
 
